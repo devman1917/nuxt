@@ -65,6 +65,7 @@ coverage
 Network Trash Folder
 Temporary Items
 .apdisk
+test
 
 .vercel_build_output
 .build-*
